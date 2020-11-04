@@ -35,12 +35,14 @@ Download Live 10 from
 https://www.ableton.com/en/live/
 
 
+
 - IEM Plug-in Suite (v1.10.2 - only tested with this version)
 
 Download 'v1.10.2' from
 https://git.iem.at/audioplugins/IEMPluginSuite/-/tags
 
 Copy the IEM folder into you Plugins folder '/Library/Audio/Plug-Ins' on macOS
+
 
 
 - Hoa Library object suite for Max (v2.2_Max_Patch - only tested with this version)
@@ -53,6 +55,7 @@ If the folder is not there you will need to create one
 '~/⁨Documents⁩/⁨Max 8⁩/⁨Packages/⁩' on macOS
 
 
+
 - Jasch Objects (v0_7_2 - only tested with this version)
 
 Download jasch_objects_0_7_2.zip from
@@ -60,6 +63,7 @@ https://www.jasch.ch/dl/
 
 Unzip the folder and copy into the max package folder
 '~/⁨Documents⁩/⁨Max 8⁩/⁨Packages/⁩' on macOS
+
 
 
 
