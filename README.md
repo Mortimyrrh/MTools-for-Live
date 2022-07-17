@@ -1,5 +1,5 @@
 
-# MTools for Live v1.9
+# MTools for Live v1.10
 
 ![MTools](assets/MTools_TapDelay.png)
 
@@ -93,9 +93,10 @@ This can be accessed by clicking the bottom left triangle in the main Ableton Li
 
 
 
-# Changes
+# Changes v1.10
 
-- added MT4L Player Device
+- added MT4L Master Ext
+- added MT4L Plugin Loader
 
 
 
