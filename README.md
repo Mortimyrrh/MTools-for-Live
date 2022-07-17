@@ -6,7 +6,7 @@
 MTools for Live (MT4L) is a suite of ambisonic Max for Live devices created during my Masters. The tools enable the encoding and processing of 5th order ambisonic signals in Ableton Live. The tools focuses on enabling rapid interaction with spatialisation with an emphasis on creativity, not utility.
 
 
-Date Released: 13/9/20
+Date Released: 17/7/22
 
 
 Three things to note. 
