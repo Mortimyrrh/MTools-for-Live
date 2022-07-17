@@ -118,6 +118,12 @@ Smudge
 Ambi Delay
 - Rotation Real value graphic loads at 0 not 0.5
 
+Master EXT
+- Wont save your speaker output, you need to exsport the positions from the ALLRA_Decoder plugin and imporrt them again everytime the project is opened.
+
+Plugin Loader
+- I havent realy tested this at all it's very beta but should work and save the plugin.
+
 
 
 # Special Thanks to Alex Harker
